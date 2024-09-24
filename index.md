@@ -5,3 +5,6 @@
 ``` html
 <h1>San francisco is the best city</h1>
 ```
+- [ ] San francisco has a hot weather
+- [ ] winter in sf is full of snow
+- [x] sf has the best weather in the world
